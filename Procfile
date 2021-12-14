@@ -1,1 +1,1 @@
-https://desa-pulau-buaya.herokuapp.com/
+web: vendor/bin/heroku-php-apache2 public/
