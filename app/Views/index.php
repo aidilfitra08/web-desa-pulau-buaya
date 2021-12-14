@@ -21,16 +21,16 @@
                     <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active" data-bs-interval="2000">
-                            <img src="assets/img/car-1.jpg" class="d-block w-100" alt="...">
+                            <img src="assets/img/car-1.JPG" class="d-block w-100" alt="Gambar Carausel 1">
                             </div>
                             <div class="carousel-item" data-bs-interval="2000">
-                            <img src="/assets/img/car-2.jpg" class="d-block w-100" alt="...">
+                            <img src="/assets/img/car-2.JPG" class="d-block w-100" alt="Gambar Carausel 2">
                             </div>
                             <div class="carousel-item" data-bs-interval="2000">
-                            <img src="/assets/img/car-3.jpg" class="d-block w-100" alt="...">
+                            <img src="/assets/img/car-3.JPG" class="d-block w-100" alt="Gambar Carausel 3">
                             </div>
                             <div class="carousel-item" data-bs-interval="2000">
-                            <img src="/assets/img/car-4.jpg" class="d-block w-100" alt="...">
+                            <img src="/assets/img/car-4.JPG" class="d-block w-100" alt="Gambar Carausel 4">
                             </div>
                         </div>
                     </div>
